@@ -360,3 +360,29 @@ What project popularized merkle tree airdrops?
 
 C  Uniswap
 
+
+The online name of one of MegaETH team members is based on which of these characters?
+
+D  Walter White
+
+Why is ETH often used in its wrapped form (WETH) in DeFi protocols?
+
+B  To make ETH compatible with the ERC-20 standard
+
+
+Which one of these is NOT a ticker of a token from the RWA category?
+
+B NOT
+
+
+Which one of these was NOT a guest on the UpOnly podcast live during FTX's implosion?
+
+E  Avi Felman
+
+
+Which of these protocols is used as a bridge between certain EVM chains and the biggest Bitcoin sidechain by TVL?
+
+A  LayerZero
+
+
+
