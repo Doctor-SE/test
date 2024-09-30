@@ -385,4 +385,24 @@ Which of these protocols is used as a bridge between certain EVM chains and the 
 A  LayerZero
 
 
+What is the consensus mechanism used by Solana?
+
+D  Proof of History to suport POS based Tower BFT
+
+
+Pick the correct pair of Algorithmic Stablecoin - Creator:
+A  USDe - Ethena
+
+
+What is OTC?
+
+C  Off-exchange trading directly between third parties
+
+
+Which one of these is a bridge powered by Chainlink's CCIP?
+
+A  Xswap
+
+
+
 
