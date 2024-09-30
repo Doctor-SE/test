@@ -197,3 +197,166 @@ A  Increases LTV for when collateral & borrowed assets have correlated prices
 What is the minimum amount of gas needed to pay to send a transaction in Ethereum?
 
 C  21000
+
+How much did it cost to mint Punks in 2017?
+
+B  Free
+
+What is the rotating sequencer mechanism on MegaETH?
+
+B. One active sequencer, rotating on a pre-elected schedule
+
+Which one of these is a General Messaging Protocol?
+
+C  Axelar
+
+Which one of these is NOT a description of one of the MegaMafia projects?
+
+A  Aave fork lending market
+
+
+Which is the largest L2 by TVL according to the DefiLlama dashboard?
+
+A  Arbitrum
+
+What is required to run an Ethereum node?
+
+B  Running client software with modest hardware while staying online
+
+Which one of these is NOT an issuer of a spot Ethereum ETF?
+
+A  Hashdex
+
+Which one of these is NOT a ticker of a token from the DePIN category?
+
+A  CFX
+
+What is the generally acceptable blockchain scaling trilemma?
+
+C  Security, Scalability, Decentralization
+
+Which function was first used in Bitcoin PoW to verify transactions?
+
+D  SHA-256
+
+What is a common security threat during hard forks?
+
+A  Replay Attacks
+
+Which concept is used in Gitcoin funding?
+
+A  Quadratic Funding
+
+Which type of transaction creates new UTXOS on Bitcoin?
+
+A  Coinbase
+
+Which one of these is NOT an execution environment?
+
+D  WASM
+
+What does EIP 7702 NOT bring to Ethereum in terms of Account Abstraction?
+
+A  Externally Owned Accounts (EOAS)
+
+Why is the previous block's hash added to the blockchain's current hash?
+
+A  So that the contents of the previous block can not be edited (which will change its hash) without presenting an inconsistency in the chain
+
+What do we mean by "permissionless" in crypto?
+
+C  Property that allows one to build, participate and operate with no gatekeepers
+
+What is the Data Availability protocol used by MegaETH?
+
+A  EigenDA
+
+The original picture of DogWifHat, Achi, was auctioned for 1,210 ETH recently. Who purchased it?
+
+A. DegenSpartan
+
+Which protocol enables the trading of tokenized future yield via an AMM?
+
+D  Pendle
+
+Founder of which cryptocurrency exchange is associated with the phrase 'Yachtzeee'?
+
+B  BitMEX
+
+What does it commonly mean to FSH a token?
+
+D  Full Stack HODL
+
+How do BTC Runes work?
+
+D  They are inscribed data on satoshis
+
+Which one of these was NOT a part of the Al-meta trade in late 2022 - early 2023?
+
+A  RLC
+
+Why don't protocols distribute airdrops directly to user addresses?
+
+B  It'll be very expensive
+
+
+Which one of these protocols introduced a Proof of Donation mechanism in its airdrop?
+
+A  LayerZero
+
+What is the next major Ethereum upgrade?
+
+D  Pectra
+
+Who originally tweeted: "some things are better left unsaid. Recommend no more news like these, for the sake of the people, our industry (and your business)"
+
+B  Changpeng Zhao
+
+Which of these is NOT an example of brutal mogging by Vitalik Buterin?
+
+D  Yeah but your size is not size
+
+What kind of coins alluded to an early vision of NFTs?
+
+D  Coloured Coins
+
+Which one of these MEV strategies can be considered positive for users?
+
+A  Arbitrage
+
+What does immutability enable in crypto applications?
+
+C  Permanent record with no change of state possible
+
+How are public keys generated from private keys on Bitcoin?
+
+D  Elliptic curve multiplication
+
+Which perpetual DEX doesn't use a CLOB?
+
+A  GMX
+
+Why is there a gas limit on Ethereum?
+
+A  To limit the maximum gas consumption during a transaction
+
+Could you trade TheDAO token through the Uniswap UI?
+
+D  Yes, if there is a pool
+
+What was the title of the Eigenlayer Token whitepaper?
+
+A  EIGEN: Intersubjective Work Verified
+
+How many years is SBF's prison sentence?
+
+D  25
+
+This guy is known as "Black GCR" and has previously appeared on the UpOnly Podcast:
+
+A  Ansem
+
+What project popularized merkle tree airdrops?
+
+C  Uniswap
+
