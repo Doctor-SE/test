@@ -92,7 +92,7 @@ D  ASIC-resistant PoW chain
 
 Is Blast part of the Superchain?
 
-D  Blast uses Optimism's technology but is not officially part of the Superchain
+A  Yes, Blast is officially part of the Optimism Superchain
 
 What is the purpose of the MegaMafia program?
 
@@ -100,7 +100,7 @@ A  Attract 0-1 usecase onchain or step function improvements to existing primiti
 
 Which L2 most recently had NFT Trading activity as one of its main airdrop criteria?
 
-D  Frame
+ C  Zora
 
 Where does Parallel Execution fall short in creating a truly high performance environment?
 
@@ -112,7 +112,7 @@ A  Community Takeover
 
 What was previously used as an alt account by the founder of Echo?
 
-D  paidgroupxbt
+ B  AgentChud
 
 Who typically performs on-chain liquidations in DeFi protocols?
 
